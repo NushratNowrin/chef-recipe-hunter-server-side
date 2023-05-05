@@ -24,6 +24,18 @@ app.get('/recipes', (req, res) => {
   res.send(recipes)
 })
 
+app.get('/recipes/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  if (id === 0) {
+      res.send(recipes)
+  }
+  else {
+      const chefsRecipe = recipes.filter(n => parseInt(n.chef_id) === id);
+      res.send(chefsRecipe)
+  }
+
+})
+
 app.listen(port, () => {
   console.log(`server is running ${port}`)
 })
