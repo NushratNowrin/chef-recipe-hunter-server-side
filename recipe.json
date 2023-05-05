@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "chef_id": 1,
+        "name": "Beaf Biriyani",
+        "ingredients": ["Rice", "Beaf", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"To make a delightful beaf biryani dish firstly soak saffron in water to prepare saffron water (One tsp saffron can be soaked in 1/4 cup water). Next, mix kewra drops in water and mix well to make kewra water. Set them aside for later usage. Now chop the onion and coriander leaves and keep them aside.",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 2,
+        "chef_id": 1,
+        "name": "Chicken Fried Rice",
+        "ingredients": ["Rice", "Chicken", "Egg", "Onion", "Soya sos"],
+        "cooking_method":"Season the eggs. Whisk them with a bit of sesame oil, aminos and salt. Cook the veggies! Stir-fry the carrots. Cook the eggs. Heat a little vegetable oil and sesame oil, then fry the rice by spreading it in a solid, even layer in the hot pan. Bring it all together!",
+        "ratings": 4.5,
+        "image": "https://houseofnasheats.com/wp-content/uploads/2023/01/Chicken-Fried-Rice-Recipe-Square-1.jpg"
+    },
+    {
+        "id": 3,
+        "chef_id": 1,
+        "name": "Chicken Fry",
+        "ingredients": ["Chicken", "Milk", "Egg", "Buttermilk", "Masala"],
+        "cooking_method":"Most fried chicken recipes start with a bath in a seasoned marinade of some sort, whether it's buttermilk, milk and eggs, or even pickle juice. Adding plenty of salt to this mixture can help your chicken stay moist.",
+        "ratings": 4.8,
+        "image": "https://spoonsofflavor.com/wp-content/uploads/2020/08/Easy-Chicken-Fry-Recipe.jpg"
+    },
+    {
+        "id": 4,
+        "chef_id": 1,
+        "name": "Beaf Curry",
+        "ingredients": ["Beaf", "Onion", "Potato", "Ginger", "Masala"],
+        "cooking_method":"Heat olive oil in a skillet over medium heat. Add onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Reduce heat to medium-low and continue cooking and stirring until the onion is very tender and dark brown, 15 to 20 minutes more. Stir in the garlic, green chiles, ginger paste, cardamom seeds, cloves, and cinnamon sticks. Cook and stir until the garlic begins to brown, 3 to 5 more minutes.",
+        "ratings": 5,
+        "image": "https://www.kitchensanctuary.com/wp-content/uploads/2022/04/Slow-cooker-beef-and-coconut-curry-square-FS-15.jpg"
+    },
+    {
+        "id": 5,
+        "chef_id": 1,
+        "name": "Hilsha Fish",
+        "ingredients": ["Hilsha", "Onion", "Chilly", "Oil", "Masala"],
+        "cooking_method":"To make this delicious curry, wash the fish and slice it into pieces. Once done, marinate the pieces using salt and turmeric. Keep it aside for some time. Then, heat some oil in the pan and shallow fry the marinated fish pieces until they turn golden. In another pan, heat the remaining oil, and add the cumin seeds. Silt the green chillies and add to the oil. Keep stirring.",
+        "ratings": 5,
+        "image": "https://1.bp.blogspot.com/-10krHSuwsAg/XbCw2BXbb7I/AAAAAAAAHxU/WR9dpYYT7oEB2Ax8ZTfOCFyCozQ1sNmswCLcBGAsYHQ/s1600/Doi%2BIlish%2B_%2BBengali%2BRecipe%2Bof%2BFish.JPG"
+    },
+    {
+        "id": 6,
+        "chef_id": 1,
+        "name": "Shutki Mach",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"First prepare the fish by removing the fins using a scissor and then cut them in 1 pieces.Soak in a big bowl of water for 5 minutes. Rub to remove all the dirt and sand. and wash 3-4 more times with a fresh change of water.Bring a pot of water to boil and put the fish in it. Let it boil for 5=6 minutes. Drain the water and let it cool. Then using your pestle or something heavy break the fish pieces. This way you can easily remove the central and big bones from it. Discard the bones and reserve the fish for cooking.",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 7,
+        "chef_id": 2,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 8,
+        "chef_id": 2,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 9,
+        "chef_id": 2,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 10,
+        "chef_id": 3,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id":11,
+        "chef_id": 3,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 12,
+        "chef_id": 3,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 13,
+        "chef_id": 3,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 14,
+        "chef_id": 3,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 15,
+        "chef_id": 4,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 16,
+        "chef_id": 4,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 17,
+        "chef_id": 4,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 18,
+        "chef_id": 5,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 19,
+        "chef_id": 5,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 20,
+        "chef_id": 5,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 21,
+        "chef_id": 5,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 22,
+        "chef_id": 6,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 23,
+        "chef_id": 6,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    },
+    {
+        "id": 24,
+        "chef_id": 6,
+        "name": "Biriyani",
+        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"loren ipsum",
+        "ratings": 5,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+    }
+
+]

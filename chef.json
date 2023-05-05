@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"name": "Mustakim Billah",
+		"experience": 12,
+		"description": "Chef Mustakim Billah has over 2 years of experience in Deshi Delights and a passion for creating dishes that are both traditional and innovative. Using only the freshest, locally-sourced ingredients, Chef Mustakim's menu features classic dishes like homemade pasta and slow-cooked ragu, as well as unique creations like roasted beet risotto.",
+		"recipe": 6,
+		"likes": 100,
+		"image": "https://www.pngitem.com/pimgs/m/112-1129335_chef-png-transparent-png.png"
+	},
+	{
+		"id": 2,
+		"name": "Shagor Ahmed",
+		"experience": 7,
+		"description": "At our restaurant, Chef Shagor Ahmed takes inspiration from his previous experience to create bold, flavorful dishes that showcase the best of Bangladeshi cuisine. From our signature ceviche to our grilled skirt steak with chimichurri sauce, vibrant spices, fresh herbs, and bright, citrusy flavors.",
+		"recipe": 3,
+		"likes": 80,
+		"image": "https://www.kindpng.com/picc/m/470-4705491_male-chef-png-image-chef-transparent-png.png"
+	},
+	{
+		"id": 3,
+		"name": "Mohua Mahi",
+		"experience": 6,
+		"description": "Mohua Mahi is known for her inventive approach to Bangladeshi cuisine, blending traditional techniques with modern flavors and presentation. From our special Biriyani to our fuchka plate, every dish on our menu is a work of art that reflects Chef Mohua Mahi to excellence and creativity.",
+		"recipe": 5,
+		"likes": 150,
+		"image": "https://purepng.com/public/uploads/large/purepng.com-female-chefcheftrained-professional-cookfood-preparationkitchenchefsexperiencedwomenfemale-1421526720120qoyuj.png"
+	},
+	{
+		"id": 4,
+		"name": "Raisa Sharif",
+		"experience": 5,
+		"description": "With a focus on seasonal ingredients and farm-to-table cooking, Chef Raisa Sharif creates dishes that are both delicious and sustainable. Whether it's our roasted chicken with root vegetables or our hearty lentil soup, you can taste the difference in every bite thanks to Chef Raisa's commitment to using only the best ingredients.",
+		"recipe": 3,
+		"likes": 120,
+		"image": "https://simg.nicepng.com/png/small/24-241804_chef-png-chef.png"
+	},
+	{
+		"id": 5,
+		"name": "Omi Hossain",
+		"experience": 8,
+		"description": "Chef Omi Hossain has trained in some of the finest kitchens in Bangladesh and brings his expertise in classical Bangladeshi cuisine to our restaurant. From our escargot in garlic butter to our bouillabaisse, every dish on our menu is carefully crafted with rich flavors and elegant presentation that is sure you enjoy.",
+		"recipe": 4,
+		"likes": 110,
+		"image": "https://pngimg.com/d/chef_PNG17.png"
+	},
+	{
+		"id": 6,
+		"name": "Chadni Chowdhury",
+		"experience": 10,
+		"description": "Chef Chadni Chowdhury creates modern Bangladeshi cuisine with a focus on fresh, bold flavors and artistic presentation. Her menu features traditional dishes like Monohora and Nababi desert, as well as innovative creations like egg rolled chops with pickled papaya salad.",
+		"recipe": 3,
+		"likes": 150,
+		"image": "https://pngimg.com/d/chef_PNG27.png"
+	}
+]
