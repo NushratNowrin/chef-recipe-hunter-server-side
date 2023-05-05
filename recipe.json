@@ -48,37 +48,37 @@
         "id": 6,
         "chef_id": 1,
         "name": "Shutki Mach",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
+        "ingredients": ["Shutki", "Potato", "Bringal", "Chilly", "Masala"],
         "cooking_method":"First prepare the fish by removing the fins using a scissor and then cut them in 1 pieces.Soak in a big bowl of water for 5 minutes. Rub to remove all the dirt and sand. and wash 3-4 more times with a fresh change of water.Bring a pot of water to boil and put the fish in it. Let it boil for 5=6 minutes. Drain the water and let it cool. Then using your pestle or something heavy break the fish pieces. This way you can easily remove the central and big bones from it. Discard the bones and reserve the fish for cooking.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/60f2ead6df0bb6268479a84d_Shutki%20bata_1500%20x%201200.jpg"
     },
     {
         "id": 7,
         "chef_id": 2,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Nawabi Semai",
+        "ingredients": ["Laccha Semai", "Milk", "Ghee", "Suger", "Custured Powder"],
+        "cooking_method":"Firstly, in a pan, put in ghee, raisins, pistachios and almonds - stir, and toast until light brown. Use a spatula to take out the toasted mixture, and place it onto a plate on the side. In the same pan, add in the lachcha semai, sugar, and milk powder; stir the 3 ingredients together thoroughly and let it fry until light brown, then let it cool. Put the semai into a dish (it is ready to be used later). In a different pan, pour in 3 cups of milk and stir continuously so that it reduces to half of its original quantity. After that, add in milk powder, followed by condensed milk - use a spatula to mix everything together well, and continuously. In a separate small jug, put custard powder in with milk, mix together, then put it into the bigger milk pan - mix and cook until it thickens.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://img-global.cpcdn.com/recipes/968fa48d086ecf96/680x482cq70/%E0%A6%A8%E0%A6%AC%E0%A6%AC-%E0%A6%B8%E0%A6%AE%E0%A6%87-nawabi-semai-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg"
     },
     {
         "id": 8,
         "chef_id": 2,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Fruit Custard",
+        "ingredients": ["Fruit", "Custard Powder", "Milk", "Condensed Milk", "Vanilla essence"],
+        "cooking_method":"Fruit custard is a dessert made by mixing chopped seasonal fruits with chilled cusard sauce. Custard is a saucy dish that was traditionally prepared with cream, milk and eggs. Today one can find so many ways of making a custard.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://www.ticklingpalates.com/wp-content/uploads/2016/07/fruit-custard-recipe-1-500x500.jpg"
     },
     {
         "id": 9,
         "chef_id": 2,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Mahlabiya",
+        "ingredients": ["Egg", "Milk", "Nuts", "Suger", "Corn Flour"],
+        "cooking_method":"Mahalabia (also known as Muhallebi) is a creamy Middle Eastern milk pudding garnished with nuts, rose petals and/or a sugar syrup. It is super simple to make and requires only a few ingredients which are cornflour / cornstarch, milk, sugar and flavorings of choice.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://vidarbergum.com/wp-content/uploads/2021/06/muhallebi-mahalabia-milk-pudding-1.jpg"
     },
     {
         "id": 10,
