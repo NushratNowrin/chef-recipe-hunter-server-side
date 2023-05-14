@@ -32,7 +32,7 @@
         "name": "Beaf Curry",
         "ingredients": ["Beaf", "Onion", "Potato", "Ginger", "Masala"],
         "cooking_method":"Heat olive oil in a skillet over medium heat. Add onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Reduce heat to medium-low and continue cooking and stirring until the onion is very tender and dark brown, 15 to 20 minutes more. Stir in the garlic, green chiles, ginger paste, cardamom seeds, cloves, and cinnamon sticks. Cook and stir until the garlic begins to brown, 3 to 5 more minutes.",
-        "ratings": 5,
+        "ratings": 4.5,
         "image": "https://www.kitchensanctuary.com/wp-content/uploads/2022/04/Slow-cooker-beef-and-coconut-curry-square-FS-15.jpg"
     },
     {
@@ -50,7 +50,7 @@
         "name": "Shutki Mach",
         "ingredients": ["Shutki", "Potato", "Bringal", "Chilly", "Masala"],
         "cooking_method":"First prepare the fish by removing the fins using a scissor and then cut them in 1 pieces.Soak in a big bowl of water for 5 minutes. Rub to remove all the dirt and sand. and wash 3-4 more times with a fresh change of water.Bring a pot of water to boil and put the fish in it. Let it boil for 5=6 minutes. Drain the water and let it cool. Then using your pestle or something heavy break the fish pieces. This way you can easily remove the central and big bones from it. Discard the bones and reserve the fish for cooking.",
-        "ratings": 5,
+        "ratings": 4.8,
         "image": "https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/60f2ead6df0bb6268479a84d_Shutki%20bata_1500%20x%201200.jpg"
     },
     {
@@ -83,137 +83,139 @@
     {
         "id": 10,
         "chef_id": 3,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Dalgona coffee",
+        "ingredients": ["Granulated sugar", "Instant coffee", "Cold water", "Ice", "Milk"],
+        "cooking_method":"All you need is an equal amount of coffee, sugar and water and just beat them well. Add it to chilled milk and pour whipped cream over it and you are good to go. Here is an easy way to make this amazing coffee recipe at home.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://amandascookin.com/wp-content/uploads/2022/01/Dalgona-Coffee-RCSQ.jpg"
     },
     {
         "id":11,
         "chef_id": 3,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Cold Coffee",
+        "ingredients": ["Coffee Powder", "Ice", "Sugar", "Ice Cream", "Milk"],
+        "cooking_method":"Add coffee, sugar, and warm water to a blender jar. Pour chilled milk, ice cubes and ice cream (2 scoops, optional). Blend again for 2 minutes until the cold coffee turns frothy, thick, and creamy. Pour cold coffee into the garnished glass.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://mytastycurry.com/wp-content/uploads/2020/04/Cafe-style-cold-coffee-with-icecream.jpg"
     },
     {
         "id": 12,
         "chef_id": 3,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Malai Tea",
+        "ingredients": ["Tea", "Milk", "Water", "Jafran", "Cream"],
+        "cooking_method":"Egg yolk and milk mix well. Then boil. Be careful with the milk, do not fall. When the milk totally boiled, add tea leaves and boil well. When your tea leaves come in beautiful colors automatically. Then put out from the stove. Put cream or malai in a cup and then add tea from the top of the cup.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://www.creatorshala.com/public/frontend/imgs/postImgs/20210108-105417-6051.jpeg"
     },
     {
         "id": 13,
         "chef_id": 3,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "cappuccino",
+        "ingredients": ["Coffee Powder", "Water", "Sugar", "Cream", "Milk"],
+        "cooking_method":"Perfected and made popular during both World Wars, a cappuccino starts with a bottom layer of one or two shots of espresso (typically two in the United States). A second layer of steamed milk is added on top, followed by a thick and airy layer of foam to lend the drink a luxurious velvety texture.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://www.roastycoffee.com/wp-content/uploads/Australian-Cappuccino-e1633700166537-720x720.jpg"
     },
     {
         "id": 14,
         "chef_id": 3,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
-        "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "name": "Latte",
+        "ingredients": ["Coffee Powder", "Water", "Sugar", "Cream", "Milk"],
+        "cooking_method":"Make around 35ml espresso using your coffee machine and pour it into the base of your cup. Steam the milk with the steamer attachment so that it has around 2-3cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+        "ratings": 4.8,
+        "image": "https://coffeeaffection.com/wp-content/uploads/2020/01/how-to-make-a-latte-at-home.jpg"
     },
     {
         "id": 15,
         "chef_id": 4,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Classic Smashed Cheeseburger",
+        "ingredients": ["Sirloin", "Brisket", "Butter", "Vegetable oil", "American cheese"],
+        "cooking_method":"In a large bowl, use your hands to gently combine ground sirloin and brisket. Divide into four equal-sized, loosely meat pucks about 2 1/2 inches thick. Place patties on a plate lined with plastic wrap or parchment; transfer to the freezer for 15 minutes (do not exceed this amount of time). Meanwhile, heat a griddle, large cast-iron skillet, or large heavy stainless-steel skillet over medium-high heat. Melt 2 tablespoons butter and place the buns, cut-side down, in the pan. Cook until cut sides are golden-brown, about 2 minutes (you may need to do this in two batches, using additional butter if needed). Place toasted buns on four plates, reserving griddle or skillet.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/1:1/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg"
     },
     {
         "id": 16,
         "chef_id": 4,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Chicken Pizza",
+        "ingredients": ["olive oil","pizza dough",
+        "Chicken", "barbecue sauce","mozzarella (shredded)"],
+        "cooking_method":"Preheat the oven at 500-degree Celsius. Take a baking sheet and line it with parchment paper. Grease the sheet with olive oil. Spray the counter with some flour and knead the pizza dough into a circle. Slide the dough onto the baking sheet. Spread ¼ cup BBQ Sauce onto the dough. Leave 1 inch around the edge bare. Then add the shredded chicken and spread in an even layer. Add mozzarella cheese as per preference. Then add red onions. For the final layer, add the gouda and sprinkle some red pepper flakes. Place the baking sheet inside the oven and bake until the dough is cooked through and the cheese has melted. This will take about 20-25 minutes. Garnish with chopped cilantro and serve.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/BBQ-Chicken-Pizza-750x750.jpg"
     },
     {
         "id": 17,
         "chef_id": 4,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
-        "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "name": "Fuchka",
+        "ingredients": ["Puri", "Sauce", "Potato", "Red Chilli", "Onion"],
+        "cooking_method":"Mix semolina with ap flour very well using your hand. Gradually add water as you mix and knead while allowing the semolina to absorb the water. Once the dough has reached an elastic-like texture, cover it up with a moist cloth and let it rest for 10 minutes and make sure your dough is not too soft nor hard. Knead the dough again before cutting the dough in half and roll it out thinly flat using a rolling pin. Cut out into small round pieces using a cooking cutter. Deep dry and gently tap as it puffs up and lights golden in color. For the sauce, pour in tamarind pulp along with 2 cups of water and bring to a boil. Strain out the tamarind sauce into a clean bowl, add 1 cup of water, salt, black salt, coriander, red chili, cumin, sugar, and lime. Mix the tamarind sauce and set aside. In a new bowl, add boiled white peas, boiled potatoes, red onion, green chili, ground coriander, cumin, red chili, fresh coriander, salt to taste, and lime juice along with a 2 tbsp of tamarind sauce. Ready to assemble your very own fuchka and enjoy!",
+        "ratings": 4.8,
+        "image": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/11/05/fuchka3_1.jpg"
     },
     {
         "id": 18,
         "chef_id": 5,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Beaf Biriyani",
+        "ingredients": ["Rice", "Beaf", "Potato", "Jayfol", "Masala"],
+        "cooking_method":"To make a delightful beaf biryani dish firstly soak saffron in water to prepare saffron water (One tsp saffron can be soaked in 1/4 cup water). Next, mix kewra drops in water and mix well to make kewra water. Set them aside for later usage. Now chop the onion and coriander leaves and keep them aside.",
         "ratings": 5,
         "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
     },
     {
         "id": 19,
         "chef_id": 5,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
-        "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "name": "Shutki Mach",
+        "ingredients": ["Shutki", "Potato", "Bringal", "Chilly", "Masala"],
+        "cooking_method":"First prepare the fish by removing the fins using a scissor and then cut them in 1 pieces.Soak in a big bowl of water for 5 minutes. Rub to remove all the dirt and sand. and wash 3-4 more times with a fresh change of water.Bring a pot of water to boil and put the fish in it. Let it boil for 5=6 minutes. Drain the water and let it cool. Then using your pestle or something heavy break the fish pieces. This way you can easily remove the central and big bones from it. Discard the bones and reserve the fish for cooking.",
+        "ratings": 4.8,
+        "image": "https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/60f2ead6df0bb6268479a84d_Shutki%20bata_1500%20x%201200.jpg"
     },
     {
         "id": 20,
         "chef_id": 5,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Dalgona coffee",
+        "ingredients": ["Granulated sugar", "Instant coffee", "Cold water", "Ice", "Milk"],
+        "cooking_method":"All you need is an equal amount of coffee, sugar and water and just beat them well. Add it to chilled milk and pour whipped cream over it and you are good to go. Here is an easy way to make this amazing coffee recipe at home.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://amandascookin.com/wp-content/uploads/2022/01/Dalgona-Coffee-RCSQ.jpg"
     },
     {
         "id": 21,
         "chef_id": 5,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Mahlabiya",
+        "ingredients": ["Egg", "Milk", "Nuts", "Suger", "Corn Flour"],
+        "cooking_method":"Mahalabia (also known as Muhallebi) is a creamy Middle Eastern milk pudding garnished with nuts, rose petals and/or a sugar syrup. It is super simple to make and requires only a few ingredients which are cornflour / cornstarch, milk, sugar and flavorings of choice.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://vidarbergum.com/wp-content/uploads/2021/06/muhallebi-mahalabia-milk-pudding-1.jpg"
     },
     {
         "id": 22,
         "chef_id": 6,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Nawabi Semai",
+        "ingredients": ["Laccha Semai", "Milk", "Ghee", "Suger", "Custured Powder"],
+        "cooking_method":"Firstly, in a pan, put in ghee, raisins, pistachios and almonds - stir, and toast until light brown. Use a spatula to take out the toasted mixture, and place it onto a plate on the side. In the same pan, add in the lachcha semai, sugar, and milk powder; stir the 3 ingredients together thoroughly and let it fry until light brown, then let it cool. Put the semai into a dish (it is ready to be used later). In a different pan, pour in 3 cups of milk and stir continuously so that it reduces to half of its original quantity. After that, add in milk powder, followed by condensed milk - use a spatula to mix everything together well, and continuously. In a separate small jug, put custard powder in with milk, mix together, then put it into the bigger milk pan - mix and cook until it thickens.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://img-global.cpcdn.com/recipes/968fa48d086ecf96/680x482cq70/%E0%A6%A8%E0%A6%AC%E0%A6%AC-%E0%A6%B8%E0%A6%AE%E0%A6%87-nawabi-semai-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg"
     },
     {
         "id": 23,
         "chef_id": 6,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
+        "name": "Latte",
+        "ingredients": ["Coffee Powder", "Water", "Sugar", "Cream", "Milk"],
+        "cooking_method":"Make around 35ml espresso using your coffee machine and pour it into the base of your cup. Steam the milk with the steamer attachment so that it has around 2-3cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
         "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "image": "https://coffeeaffection.com/wp-content/uploads/2020/01/how-to-make-a-latte-at-home.jpg"
     },
     {
         "id": 24,
         "chef_id": 6,
-        "name": "Biriyani",
-        "ingredients": ["Rice", "Meat", "Potato", "Jayfol", "Masala"],
-        "cooking_method":"loren ipsum",
-        "ratings": 5,
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/27/e0/67/mutton-dum-biryani.jpg"
+        "name": "Chicken Pizza",
+        "ingredients": ["olive oil","pizza dough",
+        "Chicken", "barbecue sauce","mozzarella (shredded)"],
+        "cooking_method":"Preheat the oven at 500-degree Celsius. Take a baking sheet and line it with parchment paper. Grease the sheet with olive oil. Spray the counter with some flour and knead the pizza dough into a circle. Slide the dough onto the baking sheet. Spread ¼ cup BBQ Sauce onto the dough. Leave 1 inch around the edge bare. Then add the shredded chicken and spread in an even layer. Add mozzarella cheese as per preference. Then add red onions. For the final layer, add the gouda and sprinkle some red pepper flakes. Place the baking sheet inside the oven and bake until the dough is cooked through and the cheese has melted. This will take about 20-25 minutes. Garnish with chopped cilantro and serve.",
+        "ratings": 4.5,
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/BBQ-Chicken-Pizza-750x750.jpg"
     }
 
 ]

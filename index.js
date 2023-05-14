@@ -4,7 +4,7 @@ const chefs = require('./chef.json')
 const recipes = require('./recipe.json')
 const app = express()
 app.use(cors())
-const port = 5000
+const port = process.env.PORT || 5000;
 
 app.get('/', (req, res) => {
   res.send('Hello, Server is running')
